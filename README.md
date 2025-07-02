@@ -3,73 +3,73 @@
 
 ---
 
-## 🦾 **Sobre mim**
+## 🦾 **About Me**
 
-> Full Stack & Security Dev, eterno aprendiz, cyberpunk de verdade.<br>
-> **Desenvolvo sistemas seguros, automações, integrações e performance, sempre nas sombras.**
-> 🥷 **"Se não existe, eu crio. Se existe, eu melhoro. Se é impossível, me interessa."**
+> Full Stack & Security Dev, eternal learner, true cyberpunk.<br>
+> **I develop secure systems, automations, integrations, and performance — always in the shadows.**
+> 🥷 **"If it doesn't exist, I build it. If it exists, I improve it. If it's impossible, I'm interested."**
 
 ---
 
-## ⚡️ **Habilidades Principais**
+## ⚡️ **Core Skills**
 
 - **Web Development:**  
   - *HTML, CSS, JavaScript*
-  - Responsive websites, API integration, otimização de performance
+  - Responsive websites, API integration, performance optimization
 
 - **Back-End Development:**  
-  - *Node.js, Java (Spring Boot, puro)*
-  - *Banco de Dados*: MySQL, PostgreSQL
-  - *Arquitetura*: Microservices, Serverless, REST, GraphQL
-  - *Infra*: Docker, AWS, CI/CD pipelines
+  - *Node.js, Java (Spring Boot, vanilla)*
+  - *Databases*: MySQL, PostgreSQL
+  - *Architecture*: Microservices, Serverless, REST, GraphQL
+  - *Infrastructure*: Docker, AWS, CI/CD pipelines
 
 - **System Security:**  
-  - *Firewalls, criptografia, autenticação multifator*
-  - *IDS/IPS, JWT, OAuth2, logging e rastreio avançados*
-  - *Defesa ativa: XSS, SQLi, brute force, validação de webhook*
+  - *Firewalls, encryption, multi-factor authentication*
+  - *IDS/IPS, JWT, OAuth2, advanced logging and tracing*
+  - *Active defense: XSS, SQLi, brute force, webhook validation*
 
 - **Automation & Bots:**  
-  - Bots para Telegram, Discord, WhatsApp, web crawlers, scrapers, automações sigilosas
+  - Bots for Telegram, Discord, WhatsApp, web crawlers, scrapers, stealth automation
 
 ---
 
-## 🏴‍☠️ **Projetos em Destaque**
+## 🏴‍☠️ **Featured Projects**
 
-| ⚡ Projeto | 💡 Descrição Hacker |
+| ⚡ Project | 💡 Hacker Description |
 |:---|:---|
-| <img src="https://img.shields.io/badge/CTF%20Starter%20Pack-23272c?logo=codewars&logoColor=23ff7f&style=flat-square"> <br> [`ctf-starter-pack-web`](https://github.com/BlackBoxerX/ctf-starter-pack-web) | Painel hacker para CTF: brute force, decoders, busca de flag, gerador de payload, tudo na web e no terminal. Feito para infiltração e automação de desafios. |
-| <img src="https://img.shields.io/badge/Password%20Hash%20Cracker-23272c?logo=gnubash&logoColor=23ff7f&style=flat-square"> <br> [`password-hash-cracker-c`](https://github.com/BlackBoxerX/password-hash-cracker-c) | Brute force/wordlist para hashes (MD5, SHA1, SHA256). Código baixo nível, pensado para velocidade e anonimato. |
-| <img src="https://img.shields.io/badge/Pac--Man%20Terminal-23272c?logo=linux&logoColor=23ff7f&style=flat-square"> <br> [`pacman`](https://github.com/BlackBoxerX/pacman) | Pac-Man retrô em ASCII, roda em qualquer terminal. Entretenimento hacker oldschool. |
-| <img src="https://img.shields.io/badge/Node%20Ping%20API-23272c?logo=nodedotjs&logoColor=23ff7f&style=flat-square"> <br> [`node-ping-api`](https://github.com/BlackBoxerX/node-ping-api) | Micro API de healthcheck para automação, CI/CD, bots e monitoramento stealth. |
-| <img src="https://img.shields.io/badge/Sorteador%20CLI-23272c?logo=hackthebox&logoColor=23ff7f&style=flat-square"> <br> [`Sorteador`](https://github.com/BlackBoxerX/Sorteador) | Sorteios, randomização e entropia segura via terminal. Para decisões rápidas, sem rastros. |
+| <img src="https://img.shields.io/badge/CTF%20Starter%20Pack-23272c?logo=codewars&logoColor=23ff7f&style=flat-square"> <br> [`ctf-starter-pack-web`](https://github.com/BlackBoxerX/ctf-starter-pack-web) | Hacker web dashboard for CTFs: brute force, decoders, flag finder, payload generator. Made for infiltration and automation. |
+| <img src="https://img.shields.io/badge/Password%20Hash%20Cracker-23272c?logo=gnubash&logoColor=23ff7f&style=flat-square"> <br> [`password-hash-cracker-c`](https://github.com/BlackBoxerX/password-hash-cracker-c) | Brute force/wordlist for hashes (MD5, SHA1, SHA256). Low-level code, built for speed and anonymity. |
+| <img src="https://img.shields.io/badge/Pac--Man%20Terminal-23272c?logo=linux&logoColor=23ff7f&style=flat-square"> <br> [`pacman`](https://github.com/BlackBoxerX/pacman) | Retro ASCII Pac-Man for any terminal. Oldschool hacker entertainment. |
+| <img src="https://img.shields.io/badge/Node%20Ping%20API-23272c?logo=nodedotjs&logoColor=23ff7f&style=flat-square"> <br> [`node-ping-api`](https://github.com/BlackBoxerX/node-ping-api) | Micro API for healthcheck, automation, CI/CD, stealth bots and monitoring. |
+| <img src="https://img.shields.io/badge/Sorteador%20CLI-23272c?logo=hackthebox&logoColor=23ff7f&style=flat-square"> <br> [`Sorteador`](https://github.com/BlackBoxerX/Sorteador) | CLI tool for random draws and secure entropy. Fast decisions, zero trace. |
 
 ---
 
-> “Ferramentas para infiltração, automação e sobrevivência digital.  
-> Terminal, web ou código: tudo sob controle, sempre em silêncio.”  
+> “Tools for infiltration, automation, and digital survival.  
+> Terminal, web or code: everything under control, always in silence.”  
 > <span style="color:#23ff7f;font-size:18px;">— BlackBoxerX</span>
 
 ---
 
-## 🧬 **Experiência Real**
+## 🧬 **Real Experience**
 
-- Desenvolvimento de websites responsivos e APIs de alto desempenho
-- Criação de sistemas de monitoramento, bots e automações para Telegram, WhatsApp, Discord, scraping e crawling
-- Arquitetura de sistemas escaláveis (Docker, AWS, pipelines CI/CD)
-- Segurança digital aplicada: firewall, criptografia, autenticação forte, logging, proteção XSS/SQLi
-- Microsserviços, integração de sistemas, deploy serverless e REST/GraphQL APIs
+- Development of responsive websites and high-performance APIs
+- Creation of monitoring systems, bots and automation for Telegram, WhatsApp, Discord, scraping and crawling
+- Scalable system architecture (Docker, AWS, CI/CD pipelines)
+- Applied digital security: firewall, encryption, strong authentication, logging, XSS/SQLi protection
+- Microservices, systems integration, serverless deploy and REST/GraphQL APIs
 
 ---
 
-## ⚡️ **Contato**
+## ⚡️ **Contact**
 - ProtonMail: `blackboxerx@protonmail.com`
 - Telegram: [@blackboxerx](https://t.me/blackboxerx)
-- (LinkedIn? Não. Prefiro a superfície coberta.)
+- (LinkedIn? No. I prefer the surface covered.)
 
 ---
 
 <details>
-  <summary>📊 <b>Status e estatísticas</b></summary>
+  <summary>📊 <b>Status & Statistics</b></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=BlackBoxerX&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackBoxerX&theme=radical" width="48%" />
@@ -80,5 +80,6 @@
 <p align="center" style="font-size:18px;font-style:italic;opacity:0.6;">
   "Code in silence. Let your work be the noise."
 </p>
+
 
 
