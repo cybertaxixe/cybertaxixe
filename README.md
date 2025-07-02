@@ -1,63 +1,71 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=23ff7f&height=160&section=header&text=BlackBoxerX%20%F0%9F%9A%A8&fontColor=181a21&fontSize=44&fontAlign=50" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=25&pause=900&color=23FF7F&vCenter=true&width=440&lines=Between+the+lines+of+code...;Cybersecurity%2C+CTF%2C+Pentest+and+Automation;Back-end+wizard+%2B+Full+Stack+explorer" alt="Typing SVG" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,spring,js,nodejs,flask,linux,docker,bash,git,postgres,sqlite" /></p>
 
 ---
 
-### 🦾 **Sobre mim**
-> Full Stack Developer between the lines of code.<br>
-> Specialist in Back-End and Security.<br>
-> Always behind the firewall — never on the surface.
+## 🦾 **Sobre mim**
 
-- 🔓 **CTF lover** & ethical hacking
-- 💻 Java, Python, Node.js, Flask, Spring Boot
-- 🕵️‍♂️ Cybersecurity, automation, code art
+> Full Stack & Security Dev, eterno aprendiz, cyberpunk de verdade.<br>
+> **Sistemas seguros, automação, análise de dados e criatividade, sempre nas sombras.**
 
----
-
-### 👾 **Meus Projetos Principais**
-
-<a href="https://github.com/BlackBoxerX/ctf-starter-pack-web">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxerX&repo=ctf-starter-pack-web&theme=radical">
-</a>
-<a href="https://github.com/BlackBoxerX/password-hash-cracker-c">
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxerX&repo=password-hash-cracker-c&theme=radical">
-</a>
-
-<a href="https://github.com/BlackBoxerX/pacman">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxerX&repo=pacman&theme=radical">
-</a>
-<a href="https://github.com/BlackBoxerX/node-ping-api">
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxerX&repo=node-ping-api&theme=radical">
-</a>
-
-<br clear="both">
+- 💀 **CTF, Ethical Hacking & Pentest**
+- ☠️ **Infraestrutura sigilosa** (Cloud, Docker, VPS, Linux, Private automation)
+- 🦾 **Back-end em Java, Python, Node.js, Flask e Spring Boot**
+- 👁️‍🗨️ **Bots, scripts, crawlers, automações de tudo** (Telegram, Discord, WhatsApp, scraping, crawling...)
+- 🧑‍💻 **Construindo soluções invisíveis e seguras, APIs, e bots de coleta/análise**
+- 🥷 **"Se não existe, eu crio. Se existe, eu melhoro. Se é impossível, me interessa."**
 
 ---
 
-### 🚩 **Destaques**
-- 💻 **Projetos reais** de automação, hacking, segurança e jogos
-- 🏴‍☠️ **CTF Starter Pack** — painel web com utilitários CTF/hacker
-- 👨‍💻 **Password Hash Cracker** — brute force hashes MD5/SHA1/SHA256
-- 👾 **Pac-Man Terminal** — jogue Pac-Man no seu console
-- 🔁 **CI/CD automations** — pipelines modernos (Node, Java)
+## 🏴‍☠️ **Meus Projetos Hacker**
+
+| Projeto | Descrição |
+|---------|-----------|
+| [CTF Starter Pack](https://github.com/BlackBoxerX/ctf-starter-pack-web) | Painel web com utilitários hacker/CTF (brute force, decoders, flag finder, payload generator) |
+| [Password Hash Cracker](https://github.com/BlackBoxerX/password-hash-cracker-c) | Brute force e ataque por wordlist (C, terminal) |
+| [Pac-Man Terminal](https://github.com/BlackBoxerX/pacman) | Pac-Man oldschool em ASCII no console |
+| [Node Ping API](https://github.com/BlackBoxerX/node-ping-api) | Micro API Node para healthcheck e CI/CD |
+| [Sorteador CLI](https://github.com/BlackBoxerX/Sorteador) | Sorteios e randomização segura via terminal |
 
 ---
 
-### ✉️ **Contato**
+## 🧩 **Skills & Stealth Tech**
 
-- [Email](mailto:SEUEMAIL@protonmail.com)
-- [LinkedIn](https://www.linkedin.com/in/SEULINKEDIN) *(opcional)*
-- [Telegram](https://t.me/SEUTELEGRAM) *(opcional)*
+- **Java / Spring Boot / Python / Flask / Node.js / Bash / Docker / Linux**
+- **APIs sigilosas, robôs e automações, coleta e análise de dados**
+- **CI/CD, pipelines automatizados, deploy secreto**
+- **Desenvolvimento de sistemas de monitoramento oculto**
+- **Defesa e ataque: pentest, brute force, scraping, crawlers, bots**
+- **Experiência em infra, deployment e manutenção de servidores**
+
+---
+
+## 🧬 **Experiências marcantes**
+- Criação de bots e sistemas de coleta automatizada para Telegram, WhatsApp, Discord, Instagram e web scraping (Python, Selenium, Puppeteer)
+- Desenvolvimento de sistemas de monitoramento e automação para VPS, cloud, e servidores anônimos (com Docker, bash, linux)
+- Implementação de pipelines de CI/CD totalmente automáticos, com deploy stealth e healthcheck integrado
+- Criação de sistemas de sorteio, automação de marketing e análise de leads para empresas e projetos próprios
+- Segurança digital aplicada: JWT, criptografia, autenticação forte, proteção contra XSS/SQLi, validação de webhook, logging avançado
+
+---
+
+## ⚡️ **Contato**
+- ProtonMail: `blackboxerx@protonmail.com`
+- Telegram: [@blackboxerx](https://t.me/blackboxerx)
+- (LinkedIn? Não. Prefiro a superfície coberta.)
 
 ---
 
 <details>
-  <summary>📊 <b>Estatísticas do GitHub</b></summary>
+  <summary>📊 <b>Status e estatísticas</b></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=BlackBoxerX&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackBoxerX&theme=radical" width="48%" />
 </details>
+
+---
+
+<p align="center" style="font-size:18px;font-style:italic;opacity:0.6;">
+  "Code in silence. Let your work be the noise."
+</p>
 
