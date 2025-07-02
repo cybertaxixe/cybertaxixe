@@ -62,8 +62,7 @@
 ---
 
 ## ⚡️ **Contact**
-- ProtonMail: `blackboxerx@protonmail.com`
-- Telegram: [@blackboxerx](https://t.me/blackboxerx)
+- ProtonMail: `guihenrique.s@outlook.com`
 - (LinkedIn? No. I prefer the surface covered.)
 
 ---
