@@ -1,23 +1,39 @@
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,spring,js,nodejs,flask,linux,docker,bash,git,postgres,sqlite" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,spring,js,nodejs,flask,linux,docker,bash,git,postgres,mysql,aws" /></p>
 
 ---
 
 ## 🦾 **Sobre mim**
 
 > Full Stack & Security Dev, eterno aprendiz, cyberpunk de verdade.<br>
-> **Sistemas seguros, automação, análise de dados e criatividade, sempre nas sombras.**
-
-- 💀 **CTF, Ethical Hacking & Pentest**
-- ☠️ **Infraestrutura sigilosa** (Cloud, Docker, VPS, Linux, Private automation)
-- 🦾 **Back-end em Java, Python, Node.js, Flask e Spring Boot**
-- 👁️‍🗨️ **Bots, scripts, crawlers, automações de tudo** (Telegram, Discord, WhatsApp, scraping, crawling...)
-- 🧑‍💻 **Construindo soluções invisíveis e seguras, APIs, e bots de coleta/análise**
-- 🥷 **"Se não existe, eu crio. Se existe, eu melhoro. Se é impossível, me interessa."**
+> **Desenvolvo sistemas seguros, automações, integrações e performance, sempre nas sombras.**
+> 🥷 **"Se não existe, eu crio. Se existe, eu melhoro. Se é impossível, me interessa."**
 
 ---
 
-## 🏴‍☠️ **Meus Projetos Hacker**
+## ⚡️ **Habilidades Principais**
+
+- **Web Development:**  
+  - *HTML, CSS, JavaScript*
+  - Responsive websites, API integration, otimização de performance
+
+- **Back-End Development:**  
+  - *Node.js, Java (Spring Boot, puro)*
+  - *Banco de Dados*: MySQL, PostgreSQL
+  - *Arquitetura*: Microservices, Serverless, REST, GraphQL
+  - *Infra*: Docker, AWS, CI/CD pipelines
+
+- **System Security:**  
+  - *Firewalls, criptografia, autenticação multifator*
+  - *IDS/IPS, JWT, OAuth2, logging e rastreio avançados*
+  - *Defesa ativa: XSS, SQLi, brute force, validação de webhook*
+
+- **Automation & Bots:**  
+  - Bots para Telegram, Discord, WhatsApp, web crawlers, scrapers, automações sigilosas
+
+---
+
+## 🏴‍☠️ **Projetos em Destaque**
 
 | Projeto | Descrição |
 |---------|-----------|
@@ -29,23 +45,13 @@
 
 ---
 
-## 🧩 **Skills & Stealth Tech**
+## 🧬 **Experiência Real**
 
-- **Java / Spring Boot / Python / Flask / Node.js / Bash / Docker / Linux**
-- **APIs sigilosas, robôs e automações, coleta e análise de dados**
-- **CI/CD, pipelines automatizados, deploy secreto**
-- **Desenvolvimento de sistemas de monitoramento oculto**
-- **Defesa e ataque: pentest, brute force, scraping, crawlers, bots**
-- **Experiência em infra, deployment e manutenção de servidores**
-
----
-
-## 🧬 **Experiências marcantes**
-- Criação de bots e sistemas de coleta automatizada para Telegram, WhatsApp, Discord, Instagram e web scraping (Python, Selenium, Puppeteer)
-- Desenvolvimento de sistemas de monitoramento e automação para VPS, cloud, e servidores anônimos (com Docker, bash, linux)
-- Implementação de pipelines de CI/CD totalmente automáticos, com deploy stealth e healthcheck integrado
-- Criação de sistemas de sorteio, automação de marketing e análise de leads para empresas e projetos próprios
-- Segurança digital aplicada: JWT, criptografia, autenticação forte, proteção contra XSS/SQLi, validação de webhook, logging avançado
+- Desenvolvimento de websites responsivos e APIs de alto desempenho
+- Criação de sistemas de monitoramento, bots e automações para Telegram, WhatsApp, Discord, scraping e crawling
+- Arquitetura de sistemas escaláveis (Docker, AWS, pipelines CI/CD)
+- Segurança digital aplicada: firewall, criptografia, autenticação forte, logging, proteção XSS/SQLi
+- Microsserviços, integração de sistemas, deploy serverless e REST/GraphQL APIs
 
 ---
 
