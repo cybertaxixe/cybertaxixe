@@ -7,7 +7,7 @@
 
 > Full Stack & Security Dev, eternal learner, true cyberpunk.<br>
 > **I develop secure systems, automations, integrations, and performance — always in the shadows.**
-> 🥷 **"If it doesn't exist, I build it. If it exists, I improve it. If it's impossible, I'm interested."**
+>  **"If it doesn't exist, I build it. If it exists, I improve it. If it's impossible, I'm interested."**
 
 ---
 
