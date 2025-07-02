@@ -35,13 +35,19 @@
 
 ## 🏴‍☠️ **Projetos em Destaque**
 
-| Projeto | Descrição |
-|---------|-----------|
-| [CTF Starter Pack](https://github.com/BlackBoxerX/ctf-starter-pack-web) | Painel web com utilitários hacker/CTF (brute force, decoders, flag finder, payload generator) |
-| [Password Hash Cracker](https://github.com/BlackBoxerX/password-hash-cracker-c) | Brute force e ataque por wordlist (C, terminal) |
-| [Pac-Man Terminal](https://github.com/BlackBoxerX/pacman) | Pac-Man oldschool em ASCII no console |
-| [Node Ping API](https://github.com/BlackBoxerX/node-ping-api) | Micro API Node para healthcheck e CI/CD |
-| [Sorteador CLI](https://github.com/BlackBoxerX/Sorteador) | Sorteios e randomização segura via terminal |
+| ⚡ Projeto | 💡 Descrição Hacker |
+|:---|:---|
+| <img src="https://img.shields.io/badge/CTF%20Starter%20Pack-23272c?logo=codewars&logoColor=23ff7f&style=flat-square"> <br> [`ctf-starter-pack-web`](https://github.com/BlackBoxerX/ctf-starter-pack-web) | Painel hacker para CTF: brute force, decoders, busca de flag, gerador de payload, tudo na web e no terminal. Feito para infiltração e automação de desafios. |
+| <img src="https://img.shields.io/badge/Password%20Hash%20Cracker-23272c?logo=gnubash&logoColor=23ff7f&style=flat-square"> <br> [`password-hash-cracker-c`](https://github.com/BlackBoxerX/password-hash-cracker-c) | Brute force/wordlist para hashes (MD5, SHA1, SHA256). Código baixo nível, pensado para velocidade e anonimato. |
+| <img src="https://img.shields.io/badge/Pac--Man%20Terminal-23272c?logo=linux&logoColor=23ff7f&style=flat-square"> <br> [`pacman`](https://github.com/BlackBoxerX/pacman) | Pac-Man retrô em ASCII, roda em qualquer terminal. Entretenimento hacker oldschool. |
+| <img src="https://img.shields.io/badge/Node%20Ping%20API-23272c?logo=nodedotjs&logoColor=23ff7f&style=flat-square"> <br> [`node-ping-api`](https://github.com/BlackBoxerX/node-ping-api) | Micro API de healthcheck para automação, CI/CD, bots e monitoramento stealth. |
+| <img src="https://img.shields.io/badge/Sorteador%20CLI-23272c?logo=hackthebox&logoColor=23ff7f&style=flat-square"> <br> [`Sorteador`](https://github.com/BlackBoxerX/Sorteador) | Sorteios, randomização e entropia segura via terminal. Para decisões rápidas, sem rastros. |
+
+---
+
+> “Ferramentas para infiltração, automação e sobrevivência digital.  
+> Terminal, web ou código: tudo sob controle, sempre em silêncio.”  
+> <span style="color:#23ff7f;font-size:18px;">— BlackBoxerX</span>
 
 ---
 
@@ -74,4 +80,5 @@
 <p align="center" style="font-size:18px;font-style:italic;opacity:0.6;">
   "Code in silence. Let your work be the noise."
 </p>
+
 
