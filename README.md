@@ -3,10 +3,10 @@
 
 ---
 
-<h2 align="center">👾 BlackBoxerX</h2>
+<h2 align="center">BlackBoxerX</h2>
 <p align="center">
   Full-Stack Developer | Cybersecurity | Cloud Automation<br>
-  <i>Build, break, automate — always learning.</i>
+  <i>Build, break, automate</i>
 </p>
 
 
