@@ -32,7 +32,7 @@
 
 ## 🏴‍☠️ **Featured Projects**
 
-| ⚡ Project | 💡 Hacker Description |
+| ⚡ Project | 💡 Description |
 |:---|:---|
 | <img src="https://img.shields.io/badge/CTF%20Starter%20Pack-23272c?logo=codewars&logoColor=23ff7f&style=flat-square"> <br> [`ctf-starter-pack-web`](https://github.com/BlackBoxerX/ctf-starter-pack-web) | Hacker web dashboard for CTFs: brute force, decoders, flag finder, payload generator. Made for infiltration and automation. |
 | <img src="https://img.shields.io/badge/Password%20Hash%20Cracker-23272c?logo=gnubash&logoColor=23ff7f&style=flat-square"> <br> [`password-hash-cracker-c`](https://github.com/BlackBoxerX/password-hash-cracker-c) | Brute force/wordlist for hashes (MD5, SHA1, SHA256). Low-level code, built for speed and anonymity. |
