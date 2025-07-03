@@ -3,11 +3,21 @@
 
 ---
 
-## 🦾 **About Me**
+<h2 align="center">👾 BlackBoxerX</h2>
+<p align="center">
+  Full-Stack Developer | Cybersecurity | Cloud Automation<br>
+  <i>Build, break, automate — always learning.</i>
+</p>
 
-> Full Stack & Security Dev, eternal learner, true cyberpunk.<br>
-> **I develop secure systems, automations, integrations, and performance — always in the shadows.**
->  **"If it doesn't exist, I build it. If it exists, I improve it. If it's impossible, I'm interested."**
+---
+
+**Let’s connect:**  
+[ghdev.tec.br](https://ghdev.tec.br) 
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=BlackBoxerX&show_icons=true&theme=radical" alt="stats">
+
 
 ---
 
