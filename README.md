@@ -9,15 +9,6 @@
   <i>Build, break, automate — always learning.</i>
 </p>
 
----
-
-**Let’s connect:**  
-[ghdev.tec.br](https://ghdev.tec.br) 
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=BlackBoxerX&show_icons=true&theme=radical" alt="stats">
-
 
 ---
 
