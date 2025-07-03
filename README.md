@@ -16,7 +16,7 @@
 
 - **Back-End Development:**  
   - *Node.js, Java (Spring Boot, vanilla)*
-  - *Databases*: MySQL, PostgreSQL
+  - *Databases*: MySQL, PostgreSQL, H2
   - *Architecture*: Microservices, Serverless, REST, GraphQL
   - *Infrastructure*: Docker, AWS, CI/CD pipelines
 
