@@ -2,8 +2,6 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=python,java,spring,js,nodejs,flask,linux,docker,bash,git,postgres,mysql,aws" /></p>
 
 ---
-
-<h2 align="center">BlackBoxerX</h2>
 <p align="center">
   Full-Stack Developer | Cybersecurity | Cloud Automation<br>
   <i>Build, break, automate</i>
