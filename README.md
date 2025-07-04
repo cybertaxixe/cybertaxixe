@@ -78,6 +78,8 @@
   "Code in silence. Let your work be the noise."
 </p>
 
+---
+
 
    ██████╗ ██╗  ██╗
   ██╔═══██╗╚██╗██╔╝
