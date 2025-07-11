@@ -75,7 +75,6 @@
 ---
 
 <p align="center" style="font-size:18px;font-style:italic;opacity:0.6;">
-  "Code in silence. Let your work be the noise."
 </p>
 
 
