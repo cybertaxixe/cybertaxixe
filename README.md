@@ -15,7 +15,7 @@
   - Responsive websites, API integration, performance optimization
 
 - **Back-End Development:**  
-  - *Node.js, Java (Spring Boot, vanilla)*
+  - *Node.js, Java 
   - *Databases*: MySQL, PostgreSQL, H2
   - *Architecture*: Microservices, Serverless, REST, GraphQL
   - *Infrastructure*: Docker, AWS, CI/CD pipelines
