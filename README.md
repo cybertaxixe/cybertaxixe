@@ -8,26 +8,22 @@
 
 ---
 
-## ⚡️ **Core Skills**
+## ⚡️ Core Skills  
 
-- **Web Development:**  
-  - *HTML, CSS, JavaScript*
-  - Responsive websites, API integration, performance optimization
+### 🌑 Web Development  
+- HTML, CSS, JavaScript  
+- Responsive websites, API integration, performance optimization  
 
-- **Back-End Development:**  
-  - *Node.js, Java (Spring Boot, vanilla)*
-  - *Node.js, Java 
-  - *Databases*: MySQL, PostgreSQL, H2
-  - *Architecture*: Microservices, Serverless, REST, GraphQL
-  - *Infrastructure*: Docker, AWS, CI/CD pipelines
+### 🩸 Back-End Development  
+- Node.js, Java  
+- Databases: MySQL, PostgreSQL, H2  
+- Architecture: Microservices, Serverless, REST, GraphQL  
+- Infrastructure: Docker, AWS, CI/CD pipelines  
 
-- **System Security:**  
-  - *Firewalls, encryption, multi-factor authentication*
-  - *IDS/IPS, JWT, OAuth2, advanced logging and tracing*
-  - *Active defense: XSS, SQLi, brute force, webhook validation*
-
-- **Automation & Bots:**  
-  - Bots for Telegram, Discord, WhatsApp, web crawlers, scrapers, stealth automation
+### 🦅 System Security  
+- Firewalls, encryption, MFA  
+- IDS/IPS, JWT, OAuth2, advanced logging and tracing  
+- Active defense: XSS, SQLi, brute force, webhook validation  
 
 ---
 
@@ -60,9 +56,7 @@
 ---
 
 ## ⚡️ **Contact**
-- ProtonMail: `guihenrique.s@outlook.com`
-- (LinkedIn? No. I prefer the surface covered.)
-
+- Mail: `guihenrique.s@outlook.com`
 ---
 
 <details>
