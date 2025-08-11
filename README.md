@@ -1,69 +1,61 @@
-<!-- Banner Itachi -->
 <p align="center">
-  <img src="https://i.imgur.com/NnYfEJ2.gif" alt="Itachi Uchiha" width="800"/>
+  <img src="URL_DA_IMAGEM" alt="Itachi banner" width="800"/>
 </p>
 
 <h1 align="center">🩸 Full-Stack Developer | Cybersecurity | Cloud Automation 🦅</h1>
 <h3 align="center"><i>"Build, break, automate — in silence."</i></h3>
 
----
+──🩸───🌑───🦅───
 
-## ⚡️ Core Skills  
+## ​️ Core Skills  
 
-### 🌑 Web Development  
+### Web Development  
 - HTML, CSS, JavaScript  
-- Responsive websites, API integration, performance optimization  
+- Responsive web, API integration, performance optimization  
 
-### 🩸 Back-End Development  
-- Node.js, Java  
-- Databases: MySQL, PostgreSQL, H2  
-- Architecture: Microservices, Serverless, REST, GraphQL  
-- Infrastructure: Docker, AWS, CI/CD pipelines  
+### Back-End Development  
+- Node.js, Java, MySQL, PostgreSQL, H2  
+- Microservices, Serverless, REST, GraphQL  
+- Docker, AWS, CI/CD  
 
-### 🦅 System Security  
+### System Security  
 - Firewalls, encryption, MFA  
-- IDS/IPS, JWT, OAuth2, advanced logging and tracing  
-- Active defense: XSS, SQLi, brute force, webhook validation  
+- IDS/IPS, JWT, OAuth2, logging  
+- Proteção ativa: XSS, SQLi, brute-force, validação de webhooks  
 
-### 🌪 Automation & Bots  
-- Telegram, Discord, WhatsApp bots  
-- Web crawlers, scrapers, stealth automation  
+### Automation & Bots  
+- Bots para Telegram, WhatsApp, Discord  
+- Crawlers, scrapers, automação stealth  
 
----
+──🌑───🩸───🦅───
 
-## 🏴‍☠️ Featured Projects  
+## ‍ Featured Projects  
+| Projeto | Descrição |
+|--------|-----------|
+| **ctf-starter-pack-web** | Dashboard para CTFs com brute-force, payload generator, decodificadores. |
+| **password-hash-cracker-c** | Brute-force de hashes (MD5, SHA1, SHA256) com foco em velocidade e anonimato. |
+| **pacman** | Pac-Man ASCII retro para terminal. |
+| **node-ping-api** | Micro API para health-checks, monitoramento, bots stealth. |
+| **trading** | Sistema de trading automático com CNN, backtesting e métricas financeiras. |
 
-| ⚡ Project | 💡 Description |
-|-----------|----------------|
-| **ctf-starter-pack-web** | Hacker dashboard for CTFs: brute force, decoders, flag finder, payload generator. |
-| **password-hash-cracker-c** | Brute force/wordlist for MD5, SHA1, SHA256. Built for speed & stealth. |
-| **pacman** | Retro ASCII Pac-Man for any terminal. |
-| **node-ping-api** | Micro API for healthcheck, automation, bots & monitoring. |
-| **trading** | Automated trading using deep learning (CNN) + technical indicators. |
+> *"Tools for infiltration, automation, and digital survival. Terminal, web or code: everything under control — always in silence."*  
+> — **BlackBoxerX**
 
-> 🩸 *"Tools for infiltration, automation, and digital survival.  
-> Terminal, web or code: everything under control — always in silence."* — **BlackBoxerX**
+──🦅───🩸───🌑───
 
----
+##  Real Experience  
+- Desenvolvimento de sites responsivos e APIs de alto desempenho  
+- Bots e automação (Telegram, WhatsApp, Discord, scraping)  
+- Arquiteturas escaláveis (Docker, AWS, CI/CD)  
+- Segurança aplicada: firewalls, criptografia, XSS/SQLi protection  
+- Microservices, integrações e deploy serverless  
 
-## 🧬 Real Experience  
-- Responsive websites & high-performance APIs  
-- Monitoring systems, bots & automation (Telegram, WhatsApp, Discord, scraping)  
-- Scalable architectures (Docker, AWS, CI/CD)  
-- Applied digital security (firewalls, encryption, XSS/SQLi protection)  
-- Microservices, systems integration, serverless deploys  
+──🌑───🩸───🦅───
 
----
+##  Contact  
+📧 Mail: `guihenrique.s@outlook.com`  
 
-## ⚡️ Contact  
-📧 **ProtonMail:** `guihenrique.s@outlook.com`  
-🦅 *"LinkedIn? No. The surface stays covered."*
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dFzBo9N.gif" alt="Itachi Crows" width="600"/>
-</p>
 
 </p>
 
