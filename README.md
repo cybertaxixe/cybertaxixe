@@ -5,7 +5,8 @@
   Full-Stack Developer | Cybersecurity | Cloud Automation<br>
   <i>Build, break, automate</i>
 
-## ⚡️ Core Skills  
+  </p>
+
 
 ### 🌑 Web Development  
 - HTML, CSS, JavaScript  
