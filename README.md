@@ -39,7 +39,7 @@
 
 > “Tools for infiltration, automation, and digital survival.  
 > Terminal, web or code: everything under control, always in silence.”  
-> <span style="color:#23ff7f;font-size:18px;">— BlackBoxerX</span>
+> <span style="color:#23ff7f;font-size:18px;">— taxixe</span>
 
 ---
 
