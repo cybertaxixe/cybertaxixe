@@ -1,59 +1,50 @@
-<p align="center">
-  <img src="URL_DA_IMAGEM" alt="Itachi banner" width="800"/>
-</p>
+Full-Stack Developer | Cybersecurity | Cloud Automation
+Build, break, automate
 
-<h1 align="center">🩸 Full-Stack Developer | Cybersecurity | Cloud Automation 🦅</h1>
-<h3 align="center"><i>"Build, break, automate — in silence."</i></h3>
+⚡️ Core Skills
+Web Development:
 
-──🩸───🌑───🦅───
+HTML, CSS, JavaScript
+Responsive websites, API integration, performance optimization
+Back-End Development:
 
-## ​️ Core Skills  
+*Node.js, Java
+Databases: MySQL, PostgreSQL, H2
+Architecture: Microservices, Serverless, REST, GraphQL
+Infrastructure: Docker, AWS, CI/CD pipelines
+System Security:
 
-### Web Development  
-- HTML, CSS, JavaScript  
-- Responsive web, API integration, performance optimization  
+Firewalls, encryption, multi-factor authentication
+IDS/IPS, JWT, OAuth2, advanced logging and tracing
+Active defense: XSS, SQLi, brute force, webhook validation
+Automation & Bots:
 
-### Back-End Development  
-- Node.js, Java, MySQL, PostgreSQL, H2  
-- Microservices, Serverless, REST, GraphQL  
-- Docker, AWS, CI/CD  
+Bots for Telegram, Discord, WhatsApp, web crawlers, scrapers, stealth automation
+🏴‍☠️ Featured Projects
+⚡ Project	💡 Description
 
-### System Security  
-- Firewalls, encryption, MFA  
-- IDS/IPS, JWT, OAuth2, logging  
-- Proteção ativa: XSS, SQLi, brute-force, validação de webhooks  
+ctf-starter-pack-web	Hacker web dashboard for CTFs: brute force, decoders, flag finder, payload generator. Made for infiltration and automation.
 
-### Automation & Bots  
-- Bots para Telegram, WhatsApp, Discord  
-- Crawlers, scrapers, automação stealth  
+password-hash-cracker-c	Brute force/wordlist for hashes (MD5, SHA1, SHA256). Low-level code, built for speed and anonymity.
 
-──🌑───🩸───🦅───
+pacman	Retro ASCII Pac-Man for any terminal. Oldschool hacker entertainment.
 
-## ‍ Featured Projects  
-| Projeto | Descrição |
-|--------|-----------|
-| **ctf-starter-pack-web** | Dashboard para CTFs com brute-force, payload generator, decodificadores. |
-| **password-hash-cracker-c** | Brute-force de hashes (MD5, SHA1, SHA256) com foco em velocidade e anonimato. |
-| **pacman** | Pac-Man ASCII retro para terminal. |
-| **node-ping-api** | Micro API para health-checks, monitoramento, bots stealth. |
-| **trading** | Sistema de trading automático com CNN, backtesting e métricas financeiras. |
+node-ping-api	Micro API for healthcheck, automation, CI/CD, stealth bots and monitoring.
 
-> *"Tools for infiltration, automation, and digital survival. Terminal, web or code: everything under control — always in silence."*  
-> — **BlackBoxerX**
+trading	Automated trading system using deep learning (CNN) and technical indicators. Full pipeline: data, signals, backtesting, finance metrics.
+“Tools for infiltration, automation, and digital survival.
+Terminal, web or code: everything under control, always in silence.”
+— BlackBoxerX
 
-──🦅───🩸───🌑───
+🧬 Real Experience
+Development of responsive websites and high-performance APIs
+Creation of monitoring systems, bots and automation for Telegram, WhatsApp, Discord, scraping and crawling
+Scalable system architecture (Docker, AWS, CI/CD pipelines)
+Applied digital security: firewall, encryption, strong authentication, logging, XSS/SQLi protection
+Microservices, systems integration, serverless deploy and REST/GraphQL APIs
 
-##  Real Experience  
-- Desenvolvimento de sites responsivos e APIs de alto desempenho  
-- Bots e automação (Telegram, WhatsApp, Discord, scraping)  
-- Arquiteturas escaláveis (Docker, AWS, CI/CD)  
-- Segurança aplicada: firewalls, criptografia, XSS/SQLi protection  
-- Microservices, integrações e deploy serverless  
-
-──🌑───🩸───🦅───
-
-##  Contact  
-📧 Mail: `guihenrique.s@outlook.com`  
+⚡️ Contact
+Mail: guihenrique.s@outlook.com
 
 
 
