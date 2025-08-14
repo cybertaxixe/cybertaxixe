@@ -35,17 +35,17 @@
 
 - Segurança em Cloud (IAM, TLS/SSL)
 
-### 🎮 Desenvolvimento de Jogos
+### 🎮 Game Development
 
-Jogos 2D & 3D (Godot, Unity, Phaser.js)
+- Jogos 2D & 3D (Godot, Unity, Phaser.js)
 
-Pixel Art & Animações retrô
+- Pixel Art & Animações retrô
 
-Game Design e Level Design
+- Game Design e Level Design
 
-Inteligência Artificial para NPCs
+- Inteligência Artificial para NPCs
 
-Port de jogos para Web e Desktop
+- Port de jogos para Web e Desktop
 
 ---
 
