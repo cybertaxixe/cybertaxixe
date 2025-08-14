@@ -13,27 +13,27 @@
 - Responsive websites, API integration, performance optimization  
 
 ### 🩸 Back-End Development
-Back-End: Node.js, Java, Python, REST, GraphQL
+- Back-End: Node.js, Java, Python, REST, GraphQL
 
-Banco de Dados: MySQL, PostgreSQL, MongoDB
+- Banco de Dados: MySQL, PostgreSQL, MongoDB
 
-DevOps: Docker, AWS, CI/CD
+- DevOps: Docker, AWS, CI/CD
 
-Testes: Unitários, Integração, E2E
+- Testes: Unitários, Integração, E2E
 
 ### 🦅 System Security  
 
-Pentest & Ethical Hacking
+- Pentest & Ethical Hacking
 
-Proteção contra XSS, SQLi, CSRF
+- Proteção contra XSS, SQLi, CSRF
 
-Criptografia (AES, RSA, SHA)
+- Criptografia (AES, RSA, SHA)
 
-Autenticação (OAuth2, JWT, MFA)
+- Autenticação (OAuth2, JWT, MFA)
 
-Hardening Linux & Docker
+- Hardening Linux & Docker
 
-Segurança em Cloud (IAM, TLS/SSL)
+- Segurança em Cloud (IAM, TLS/SSL)
 
 ---
 
