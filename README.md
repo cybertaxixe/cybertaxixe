@@ -12,16 +12,28 @@
 - HTML, CSS, JavaScript  
 - Responsive websites, API integration, performance optimization  
 
-### 🩸 Back-End Development  
-- Node.js, Java  
-- Databases: MySQL, PostgreSQL, H2  
-- Architecture: Microservices, Serverless, REST, GraphQL  
-- Infrastructure: Docker, AWS, CI/CD pipelines  
+### 🩸 Back-End Development
+Back-End: Node.js, Java, Python, REST, GraphQL
+
+Banco de Dados: MySQL, PostgreSQL, MongoDB
+
+DevOps: Docker, AWS, CI/CD
+
+Testes: Unitários, Integração, E2E
 
 ### 🦅 System Security  
-- Firewalls, encryption, MFA  
-- IDS/IPS, JWT, OAuth2, advanced logging and tracing  
-- Active defense: XSS, SQLi, brute force, webhook validation  
+
+Pentest & Ethical Hacking
+
+Proteção contra XSS, SQLi, CSRF
+
+Criptografia (AES, RSA, SHA)
+
+Autenticação (OAuth2, JWT, MFA)
+
+Hardening Linux & Docker
+
+Segurança em Cloud (IAM, TLS/SSL)
 
 ---
 
@@ -40,16 +52,6 @@
 > “Tools for infiltration, automation, and digital survival.  
 > Terminal, web or code: everything under control, always in silence.”  
 > <span style="color:#23ff7f;font-size:18px;">— taxixe</span>
-
----
-
-## 🧬 **Real Experience**
-
-- Development of responsive websites and high-performance APIs
-- Creation of monitoring systems, bots and automation for Telegram, WhatsApp, Discord, scraping and crawling
-- Scalable system architecture (Docker, AWS, CI/CD pipelines)
-- Applied digital security: firewall, encryption, strong authentication, logging, XSS/SQLi protection
-- Microservices, systems integration, serverless deploy and REST/GraphQL APIs
 
 ---
 
