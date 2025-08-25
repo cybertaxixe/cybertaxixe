@@ -8,11 +8,11 @@
   </p>
 
 
-### 🌑 Web Development  
+### Web Development  
 - HTML, CSS, JavaScript  
 - Responsive websites, API integration, performance optimization  
 
-### 🩸 Back-End Development
+### Back-End Development
 - Back-End: Node.js, Java, Python, REST, GraphQL
 
 - Banco de Dados: MySQL, PostgreSQL, MongoDB
@@ -21,7 +21,7 @@
 
 - Testes: Unitários, Integração, E2E
 
-### 🦅 System Security  
+### System Security  
 
 - Pentest & Ethical Hacking
 
@@ -35,7 +35,7 @@
 
 - Segurança em Cloud (IAM, TLS/SSL)
 
-### 🎮 Game Development
+### Game Development
 
 - Jogos 2D & 3D (Godot, Unity, Phaser.js)
 
