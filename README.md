@@ -13,13 +13,11 @@
 - Responsive websites, API integration, performance optimization  
 
 ### Back-End Development
-- Back-End: Node.js, Java, Python, REST, GraphQL
+- Back-End: Node.js, Java (básico), Python
 
-- Banco de Dados: MySQL, PostgreSQL, MongoDB
+- Banco de Dados: MySQL, PostgreSQL
 
-- DevOps: Docker, AWS, CI/CD
-
-- Testes: Unitários, Integração, E2E
+- DevOps: Docker
 
 ### System Security  
 
@@ -29,25 +27,9 @@
 
 - Criptografia (AES, RSA, SHA)
 
-- Autenticação (OAuth2, JWT, MFA)
+- Autenticação (OAuth2, JWT)
 
 - Hardening Linux & Docker
-
-- Segurança em Cloud (IAM, TLS/SSL)
-
-### Game Development
-
-- Jogos 2D & 3D (Godot, Unity, Phaser.js)
-
-- Pixel Art & Animações retrô
-
-- Game Design e Level Design
-
-- Inteligência Artificial para NPCs
-
-- Port de jogos para Web e Desktop
-
----
 
 ## 🏴‍☠️ **Featured Projects**
 
